@@ -12,3 +12,7 @@ open -a "google chrome" --new-tab http://hr.glass/
 
 # conversation
 open -a "skype"
+
+
+osascript -e 'tell application "Terminal" to close (every window whose name contains ".command")' &
+exit
