@@ -30,4 +30,6 @@ get info on the sript you want to edit the icon of
 
 drag and drop the .icns file onto the info window icon of the file
 
+then you can hide the extension and you finally have what looks like your own app to open workspaces!
 
+![image](https://github.com/jakegibs617/hrglass-gotime-script/blob/master/hide-extension-mac.png)
